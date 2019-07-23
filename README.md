@@ -40,13 +40,19 @@ Notebook uses kernel for Python 3.
 
 Throughout the analysis I have used following python libraries
 
-Pandas: To load the given databases into a dataframe format. It also allowed us to select, transform, clean, process, analyze the data easily.
-Numpy: To run numerical calculations such as offer start and end times etc...
-json: To load json data that we are given
-matplotlib.pyplot: To visualize plots mostly in histograms, bar plots and scatter
-Axes3D of mpl_toolkits.mplot3d: To see multidimensional 3D scatter relations
-datetime, timedelta: To convert dates in dataframes to date format for easier calculations
-tqdm: To track for loop process state
+**Pandas:** To load the given databases into a dataframe format. It also allowed us to select, transform, clean, process, analyze the data easily.
+
+**Numpy:** To run numerical calculations such as offer start and end times etc...
+
+**json:** To load json data that we are given
+
+**matplotlib.pyplot:** To visualize plots mostly in histograms, bar plots and scatter
+
+**Axes3D of mpl_toolkits.mplot3d:** To see multidimensional 3D scatter relations
+
+**datetime, timedelta:** To convert dates in dataframes to date format for easier calculations
+
+**tqdm:** To track for loop process state
 
 ### Pickle(pkl) Files
 
