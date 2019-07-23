@@ -9,7 +9,9 @@ Starbucks targets to drive customers to purchase products via these offers yet d
 
 In order to analyse the customers we also have a customer database called "profile.json". This file contains information such as customer age, gender, income, membership date. My analysis targets to find the customer demographics that Starbucks gets the best outcome when an offer is sent to.
 
-## \data
+## Files
+
+### \data
 
 Holds the databases used in the analysis. Namely;
 **portfolio.json-** Starbucks' offer types, rewards, validity durations, difficulty 
@@ -17,7 +19,7 @@ Holds the databases used in the analysis. Namely;
 **transcript.json** Simulated transaction log. Logs when offers are received viewed and completed by users and spendings made by users during the given 720 hours.
 
 
-## Notebook - Starbucks_Capstone_notebook
+### Notebook - Starbucks_Capstone_notebook
 
 My work and explanations for each step can be found on the jupyter notebook file called "Starbucks_Capstone_notebook". In this notebook, I first investigated the the databases, cleaned the outliers and did the necessary warping for data types and formats. 
 Then I started analyzing the data asking several business questions. I investigated the gender, income, age relations together with performance of offer types. 
@@ -28,7 +30,7 @@ Non-Intentional completes, on the other hand; are the ones where user completed 
 
 Notebook uses kernel for Python 3.
 
-### Libraries
+#### Libraries
 
 Throughout the analysis I have used following python libraries
 
@@ -40,7 +42,7 @@ Axes3D of mpl_toolkits.mplot3d: To see multidimensional 3D scatter relations
 datetime, timedelta: To convert dates in dataframes to date format for easier calculations
 tqdm: To track for loop process state
 
-## Pickle(pkl) Files
+### Pickle(pkl) Files
 
 One can find two pickle files in the repo; namely, intentional_completes.pkl and values.pkl. These files are saved seperately to eliminate process repition if notebook needed to be run again. 
 
