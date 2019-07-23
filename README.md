@@ -80,7 +80,7 @@ I made conclusions in 3 different areas: Gender Based, Offer Based and Income Ba
 
 - Intentional offer complete ratio is higher for female between ages 35-55. This is valid both for bogo and discount offers. For male customers, we see larger variation in ratios within very small age differences. Making it harder to make a conclusion.
 
--Offer ‘0b1e1539f2cc45b7b9fa7c272da2e1d7’ has significantly less completion compared to other offers. This is the hardest offer and intentional completes average around %20 both for male and female customers.
+- Offer ‘0b1e1539f2cc45b7b9fa7c272da2e1d7’ has significantly less completion compared to other offers. This is the hardest offer and intentional completes average around %20 both for male and female customers.
 
 - Offer ‘fafdcd668e3743c1bb461111dcafc2a4’ has the highest completion rate both for female and male customers. 3/4 of female customers who received this offer, completed it at least once.
 
@@ -91,4 +91,4 @@ Based on our scatter plot in CRISP-DM analysis, there was a very significant beh
 This is one of the most obvious patterns in the whole analysis. Offer performance peaks for customers with incomes between these levels.
 
 ## Medium Article
-I also wrote a summary on Medium,https://medium.com/@onurkpc/how-would-you-like-your-coffee-offers-a535cdba3198.
+I also wrote a summary on Medium, https://medium.com/@onurkpc/how-would-you-like-your-coffee-offers-a535cdba3198.
