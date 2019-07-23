@@ -66,4 +66,29 @@ One can find two pickle files in the repo; namely, intentional_completes.pkl and
 
 My notebook consists of my study with graphs and analysis. You can find comments and my thought process written in between each analysis. 
 
+### Main Points
+
+I made conclusions in 3 different areas: Gender Based, Offer Based and Income Based
+
+#### 1- Gender
+
+- Looking at all of the plots, we can say that we need a larger dataset gender group Other to make any decisive conclusions. Gender “O” consists around 1/60th of our dataset.
+
+- We can say that female customers complete offers more than male customers. However, a good portion of them is nonintentional. In order to increase our offer performance, I decided to look into each offer seperately
+
+#### 2- Offers
+
+- Intentional offer complete ratio is higher for female between ages 35-55. This is valid both for bogo and discount offers. For male customers, we see larger variation in ratios within very small age differences. Making it harder to make a conclusion.
+
+-Offer ‘0b1e1539f2cc45b7b9fa7c272da2e1d7’ has significantly less completion compared to other offers. This is the hardest offer and intentional completes average around %20 both for male and female customers.
+
+- Offer ‘fafdcd668e3743c1bb461111dcafc2a4’ has the highest completion rate both for female and male customers. 3/4 of female customers who received this offer, completed it at least once.
+
+#### 3- Income
+
+Based on our scatter plot in CRISP-DM analysis, there was a very significant behaviour for consumers with income below $45,000 and above $100,000.
+
+This is one of the most obvious patterns in the whole analysis. Offer performance peaks for customers with incomes between these levels.
+
+## Medium Article
 I also wrote a summary on Medium,https://medium.com/@onurkpc/how-would-you-like-your-coffee-offers-a535cdba3198.
